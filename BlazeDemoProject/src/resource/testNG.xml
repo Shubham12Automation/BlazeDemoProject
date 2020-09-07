@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="BLAZEDEMO TEST AUTOMATION">
+	
+	<test name="BALZEDEMO TEST CASES">
+
+		<classes>
+			<class name="com.balzedemo.qa.test.WelcomePageTest"></class>
+			<class name="com.balzedemo.qa.test.ReservePageTest"></class>
+			<class name="com.balzedemo.qa.test.PurchasePageTest"></class>
+			<class name="com.balzedemo.qa.test.ConfirmationPageTest"></class>
+		</classes>
+	</test>
+</suite>

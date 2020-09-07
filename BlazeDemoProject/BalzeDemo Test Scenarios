@@ -1,0 +1,23 @@
+Verify Departs and Arrives Values on Reserve screen.
+Verify Sorting of columns on Reserve screen.
+Verify Airline Name on purchase screen should be same which is selected by user on Reserve screen.
+Verify Fight Number on purchase screen should be same which is selected by user on Reserve screen.
+Verify Price on purchase screen should be same which is selected by user on Reserve screen. 
+Verify Total cost , should be Price + Arbitrary Fees and Taxes.
+Verify Currency , should display currency besides every amount.
+Verify Text box with different-2 data set on purchase screen.
+Verify ZipCode value , should only accept numeric values.
+Verify card type value after entering credit card number.
+Verify Month field , should only accept 2 digit numbers upto 12.
+Verify Year field , should only accept 4 digit numbers.
+Verify Year field , Should display warning message and shouldn't allow user to enter year less than current year.
+Verify Name on Card field , should not allow user to enter prefix before name.
+Verify amount on confirmation screen should be same as Total cost of Purchase screen.
+Verify Currency on confirmation amount , should be same as shown on purchase amount.
+Verify last four digit values of Credit card number, should be same as entered by user on purchase screen.
+Verify Expiration date , should be same as entered by user on purchase screen.
+Verify Date should be display current date.
+Verify ID ,System should generate unique id for each booking. 
+
+
+
